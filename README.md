@@ -16,7 +16,7 @@
 - 🎓 **B.Tech in Computer Science and Engineering (AI & ML)** graduate
 - 💻 Aspiring **Software Engineer**
 - ⚙️ Focused on **Python**, **backend development** and **SQL**
-- 🤖 Interested in **AI and machine learning**
+- 🤖 Interested in **Full Stack Web Development**
 - 📫 Reach me at **sagarshivanadhula@gmail.com**
 
 ---
