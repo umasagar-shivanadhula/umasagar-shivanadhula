@@ -6,7 +6,7 @@
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://linkedin.com/in/uma-sagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sagarshivanadhula@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the- badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sagarshivanadhula@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
