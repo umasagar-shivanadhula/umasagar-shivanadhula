@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uma Sagar</h1>
 
-<h3 align="center">Aspiring Software Engineer | Python • Backend Development • AI/ML • SQL</h3>
+<h3 align="center">Aspiring Python Full Stack Developer | Python • FastAPI • React • SQL</h3>
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -14,9 +14,9 @@
 ## 💫 About Me
 
 - 🎓 **B.Tech in Computer Science and Engineering (AI & ML)** graduate
-- 💻 Aspiring **Software Engineer**
-- ⚙️ Focused on **Python**, **backend development** and **SQL**
-- 🤖 Interested in **Full Stack Web Development**
+- 💻 Aspiring **Python Full Stack Developer**
+- 🌐 **Passionate about full stack web development with Python**
+- ⚙️ Tech focus: **Python, FastAPI, React and SQL**
 - 📫 Reach me at **sagarshivanadhula@gmail.com**
 
 ---
